@@ -72,3 +72,7 @@ This policy is reviewed and updated at least once per year, or sooner if there i
 ## 11. Contact
 
 Questions about this policy may be directed to: viniciusnunes.qi@gmail.com
+
+---
+
+© 2026 Case Store. All rights reserved. This document may not be reproduced or redistributed without permission.
