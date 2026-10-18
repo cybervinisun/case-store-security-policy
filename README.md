@@ -1,13 +1,16 @@
 # Information Security Policy — Case Store
 
-**Version:** 1.1
+**Version:** 1.2
 **Effective date:** 2026-10-18
-**Owner:** Case Store (sole-operator e-commerce business)
-**Scope:** This policy applies to all systems, devices, and data used in the operation of Case Store's e-commerce business, including its internal order-management system and its integrations with third-party marketplace APIs (Mercado Livre, Shopee, Amazon, TikTok Shop).
+**Applicant / Owner:** Gleyson Araujo Oliveira, operating under the trade name ("nome fantasia") **Case Store**, a sole-proprietorship e-commerce business.
+**Developer / Internal system:** **Sistema Intojados** is the name of the internal, proprietary order-management software built for and used exclusively by Case Store. It is not a separate company, vendor, or third-party developer — it is the software platform, developed for and operated solely by Gleyson Araujo Oliveira, through which this policy's technical controls are implemented and through which the TikTok Shop API integration is built.
+**Scope:** This policy applies to all systems, devices, and data used by Gleyson Araujo Oliveira in the operation of Case Store's e-commerce business, including the Sistema Intojados order-management software and its integrations with third-party marketplace APIs (Mercado Livre, Shopee, Amazon, TikTok Shop).
+
+**Relationship among these names:** Gleyson Araujo Oliveira is the sole owner and legal applicant for this integration. Case Store is the trade name under which this retail business operates and sells to customers. Sistema Intojados is the internal software system, developed for and used exclusively by this same business, that consolidates sales data and implements the API integrations and security controls described in this policy. All three names refer to the same single business and the same single responsible individual — there is no separate company, vendor, or third party involved.
 
 ## 1. Program overview and responsibility (Q1)
 
-Case Store is a sole-operator retail business. There is no dedicated security team or multi-person organizational structure; all security responsibilities described in this policy are established, implemented, and maintained directly by the business owner, who also acts as the data protection contact (encarregado) under Brazil's LGPD.
+Case Store is a sole-operator retail business, legally represented by Gleyson Araujo Oliveira. There is no dedicated security team or multi-person organizational structure; all security responsibilities described in this policy are established, implemented, and maintained directly by Gleyson Araujo Oliveira, who also acts as the data protection contact (encarregado) under Brazil's LGPD.
 
 This policy is reviewed and updated at least once per year, or sooner if there is a significant change to the business's systems, data handling practices, or applicable regulatory requirements (see Section 9).
 
@@ -75,4 +78,4 @@ Questions about this policy may be directed to: viniciusnunes.qi@gmail.com
 
 ---
 
-© 2026 Case Store. All rights reserved. This document may not be reproduced or redistributed without permission.
+© 2026 Gleyson Araujo Oliveira (trade name: Case Store). All rights reserved. This document may not be reproduced or redistributed without permission.
